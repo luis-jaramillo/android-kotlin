@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AppDeliveryWithCompose</string>
+    <string name="login_title" > titulo</string>
+    <string name="login_welcome_message" > Welcome !</string>
+    <string name="login_login_with_google" > Login with google</string>
+    <string name="login_Description" > When you use delivery app you accept our: </string>
+    <string name="login_terms" >Terms</string>
+    <string name="login_and" > and </string>
+    <string name="login_conditions" > Conditions</string>
+</resources>
